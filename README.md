@@ -1,2 +1,3 @@
-PROGRAMMING FUNDAMENTALS
-Contains lots of basic c++ code for any beginner to use.
+**PROGRAMMING FUNDAMENTALS**	
+
+Contains lots of basic c++ code and a fun semester project for beginners.
