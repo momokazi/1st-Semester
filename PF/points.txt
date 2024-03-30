@@ -1,0 +1,9 @@
+Types of functions
+user defined (e.g)
+built in (e.g)
+For built in:
+1- fucntion declaration (also called function prototype) 
+2- function call 	
+3- function definition
+
+IF WE ADD () AFTER A WORD IT BECOMES A FUNCTION
