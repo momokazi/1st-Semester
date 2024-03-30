@@ -1,3 +1,2 @@
-Contains ppts, notes, books and lots of code.
-Also has 
-A C++ project for sin,cos,tan graph generation using graphics.h library
+PROGRAMMING FUNDAMENTALS
+Contains lots of basic c++ code for any beginner to use.
